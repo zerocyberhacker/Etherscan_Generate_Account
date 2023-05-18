@@ -24,6 +24,11 @@ If you want to test the private key , you can import the private key to your Met
   npm start
 ```
 
+## Demo
+
+
+
+![Logo](https://i.ibb.co/VmZT7qs/Screenshot-2023-05-18-at-9-17-43-AM.png)
 
 
 ## Authors
@@ -34,11 +39,4 @@ If you want to test the private key , you can import the private key to your Met
 ## Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
-
-## Demo
-
-
-
-![Logo](https://i.ibb.co/VmZT7qs/Screenshot-2023-05-18-at-9-17-43-AM.png)
 
