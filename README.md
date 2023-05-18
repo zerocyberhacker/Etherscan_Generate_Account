@@ -12,6 +12,11 @@ A brief description of what this project does and who it's for
 | :-------- | :------- | :------------------------- |
 | ETHERSCAN_API_KEY | `string` | https://etherscan.io/ |
 
+#### Install the package
+
+```
+  npm install
+```
 #### Start the program
 
 ```
