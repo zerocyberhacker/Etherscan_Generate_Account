@@ -16,7 +16,7 @@ If you want to test the private key , you can import the private key to your Met
 #### Install the package
 
 ```
-  npm install
+  npm i
 ```
 #### Start the program
 
