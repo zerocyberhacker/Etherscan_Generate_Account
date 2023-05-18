@@ -14,7 +14,7 @@ A brief description of what this project does and who it's for
 
 #### Start the program
 
-```http
+```
   npm start
 ```
 
