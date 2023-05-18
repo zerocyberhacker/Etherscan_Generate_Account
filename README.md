@@ -1,7 +1,8 @@
 
 # Etherscan Check Balance 
 
-A brief description of what this project does and who it's for
+Generate random account and check the balance at the same time , also output the public key and private key.
+If you want to test the private key , you can import the private key to your MetaMask wallet for testing.
 
 
 ## .env Reference
